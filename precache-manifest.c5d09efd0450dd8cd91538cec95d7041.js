@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97f4ef522b59298d49380df26adc72c4",
+    "revision": "66dd6ab231bef0a07baeed03ba3b7ed4",
     "url": "/github.io/react_jun19_dynamic-list-of-todos/index.html"
   },
   {
-    "revision": "22cb96062a1825e00d31",
+    "revision": "1f5d5702a8cfa822eb3f",
     "url": "/github.io/react_jun19_dynamic-list-of-todos/static/css/main.cb9e985a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/react_jun19_dynamic-list-of-todos/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "22cb96062a1825e00d31",
-    "url": "/github.io/react_jun19_dynamic-list-of-todos/static/js/main.727c1211.chunk.js"
+    "revision": "1f5d5702a8cfa822eb3f",
+    "url": "/github.io/react_jun19_dynamic-list-of-todos/static/js/main.5a7a4a71.chunk.js"
   },
   {
     "revision": "98f697c33698ee06166b",
